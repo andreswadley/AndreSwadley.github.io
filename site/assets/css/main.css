@@ -2,9 +2,9 @@
 /* =Base *//*************************************************************/
   /*
   body {
-    font-family: 'Helvatica Neue', sans-serif;
+    font-family: 'Jomolhori', sans-serif;
     font-size: 100%;
-    color: #012;
+    color: #6c4d5e;
     background-color: #FFF; } */
 
   a {
@@ -13,8 +13,8 @@
   
 
   p, ul, ol, dl {
-    font-size: 100%;
-    line-height: 32px; }
+    font-size: 50%;
+    line-height: 5px; }
   
   h1, h2, h3, h4, h5, h6 {
     color: #212529;
