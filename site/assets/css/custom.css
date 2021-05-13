@@ -1,5 +1,14 @@
 body {
-    font-family: 'Jomolhori';
+    font-family: 'Volkorn', serif;
     font-size: 100%;
     color: #6C4D5E;
     background-color: #EADDD9; } */
+    }
+
+     .header {
+    font-family: 'Volkorn', serif;
+    border-left: 40px solid #ccc;;
+    font-size: 100%;
+  
+    color: #6c4d5e;
+     }

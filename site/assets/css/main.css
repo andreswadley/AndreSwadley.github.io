@@ -2,7 +2,7 @@
 /* =Base *//*************************************************************/
   /*
   body {
-    font-family: 'Jomolhori', sans-serif;
+    font-family: 'Volkorn', serif;
     font-size: 100%;
     color: #6c4d5e;
     background-color: #FFF; } */
@@ -62,6 +62,7 @@
 */
 /* =Header *//*************************************************************/
   .header {
+    
     overflow: hidden; }
 
   .navigation {
@@ -70,7 +71,8 @@
   .logo, a.logo:hover {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    padding-left: 350px;
+    color: #e387fa;
     display: block;
     text-decoration: none; }
 
