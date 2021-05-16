@@ -1,9 +1,9 @@
 ---
 layout: page
 full_logo: true
-title: 
+title: Behold !
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: Seriously?
 sitemap:
   priority: 1.0
 ---
