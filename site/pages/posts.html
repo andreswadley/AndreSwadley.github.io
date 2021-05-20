@@ -7,6 +7,7 @@ permalink: /posts
 sitemap:
   priority: 0.9
 ---
+{% comment %}
 {% for post in site.posts %}   
     {% unless post.listed == false %}
         {% if post.pin %}
@@ -22,3 +23,4 @@ sitemap:
         {% endif %}
     {% endunless %}   
 {% endfor %}
+{% endcomment %}

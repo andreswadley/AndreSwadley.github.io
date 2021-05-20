@@ -49,3 +49,5 @@ compress_html:
   startings: [html, head, body]
 
 rss: true # RSS feed icon on or off
+
+destination: ../docs
