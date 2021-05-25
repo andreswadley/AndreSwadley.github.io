@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://0.0.0.0:8080/2021/02/04/styles.html</loc>
+      <loc>http://0.0.0.0:8080/styles/</loc>
       
         <lastmod>2021-02-04T00:00:00+00:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://0.0.0.0:8080/2020/12/25/long-title.html</loc>
+      <loc>http://0.0.0.0:8080/long-title/</loc>
       
         <lastmod>2020-12-25T00:00:00+00:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://0.0.0.0:8080/2020/07/01/docs.html</loc>
+      <loc>http://0.0.0.0:8080/docs/</loc>
       
         <lastmod>2020-07-01T00:00:00+00:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://0.0.0.0:8080/2020/04/02/sample.html</loc>
+      <loc>http://0.0.0.0:8080/sample/</loc>
       
         <lastmod>2020-04-02T00:00:00+00:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>http://0.0.0.0:8080/2020/04/01/updated.html</loc>
+      <loc>http://0.0.0.0:8080/updated/</loc>
       
         <lastmod>2020-04-01T00:00:00+00:00</lastmod>
       
@@ -85,7 +85,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/docs</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -100,7 +100,7 @@
     <url>
       <loc>http://0.0.0.0:8080/feed.xml</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -115,7 +115,7 @@
     <url>
       <loc>http://0.0.0.0:8080/</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -130,7 +130,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/jekyll</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -145,7 +145,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/open-source</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -162,7 +162,7 @@
     <url>
       <loc>http://0.0.0.0:8080/posts</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -177,7 +177,7 @@
     <url>
       <loc>http://0.0.0.0:8080/projects</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -196,7 +196,7 @@
     <url>
       <loc>http://0.0.0.0:8080/robots.txt</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -213,7 +213,7 @@
     <url>
       <loc>http://0.0.0.0:8080/sitemap.xml</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -228,7 +228,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/tag1</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -243,7 +243,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/tag2</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -258,7 +258,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/tag3</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -273,7 +273,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/tag4</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -288,7 +288,7 @@
     <url>
       <loc>http://0.0.0.0:8080/tags/tag5</loc>
       
-        <lastmod>2021-05-20T23:24:23+00:00</lastmod>
+        <lastmod>2021-05-25T01:52:59+00:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

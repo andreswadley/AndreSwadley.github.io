@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-title: woah ! # Shown in header on pages with full_logo: true
+title: woah # Shown in header on pages with <
+full_logo: true
 short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
@@ -52,7 +52,7 @@ compress_html:
 rss: true # RSS feed icon on or off
 
 destination: ../docs
-=======
+
 #
 # This file contains configuration flags to customize your site
 #
@@ -140,5 +140,4 @@ exclude:
   - README.md
   - CNAME
 
-destination:../docs
->>>>>>> origin/master
+destination: ../docs
