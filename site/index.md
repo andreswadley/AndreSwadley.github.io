@@ -7,7 +7,7 @@ description: Seriously?
 sitemap:
   priority: 1.0
 ---
-<p id="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
+<p id="describe-text">currently under fire</p>
 <br>
 !!!!! [EYES.WID3.0@gmail.com](#).
 

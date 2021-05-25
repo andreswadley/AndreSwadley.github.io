@@ -62,16 +62,16 @@
 */
 /* =Header *//*************************************************************/
   .header {
-    
+    padding-bottom: 50px;
     overflow: hidden; }
 
   .navigation {
     float: left; }
 
   .logo, a.logo:hover {
-    font-size: 300%;
+    font-size: 50%;
     font-weight: 700;
-    padding-left: 350px;
+    padding-left: 900px;
     color: #e387fa;
     display: block;
     text-decoration: none; }

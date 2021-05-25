@@ -1,9 +1,15 @@
+
+
+a {
+    color: #57A;
+    text-decoration: none;
+    padding: 20px; }
 body {
   font-family: 'Volkorn', serif;
   font-size: 100%;
   color: #6C4D5E;
-  background-color: #EADDD9; } */
-}
+  background-color: #EADDD9;
+ } 
 
 .header {
   font-family: 'Volkorn', serif;
@@ -11,3 +17,19 @@ body {
   font-size: 100%;
   color: #6c4d5e;
 }
+h1, h2, h3, h4, h5, h6 {
+    color: #212529;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    margin: 0%; }
+.page-title {
+    margin: 30px auto;
+    text-align: center; }
+    .logo, a.logo:hover {
+    font-size: 50%;
+    font-weight: 700;
+    padding-left: 600px;
+    color: #e387fa;
+    display: block;
+    text-decoration: none; }
