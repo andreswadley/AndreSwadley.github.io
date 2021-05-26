@@ -2,12 +2,32 @@ body {
   font-family: 'Volkorn', serif;
   font-size: 100%;
   color: #6C4D5E;
-  background-color: #EADDD9; } */
-}
+  background-color: #EADDD9; } 
+h1, h2, h3, h4, h5, h6 {
+    color: #212529;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-weight: 500; }
+    .logo, a.logo:hover {
+    font-size: 300%;
+    font-weight: 700;
+    padding-left: 350px;
+    color: #e387fa;
+    display: block;
+    text-decoration: none; }
+
 
 .header {
-  font-family: 'Volkorn', serif;
-  border-left: 40px solid #ccc;;
-  font-size: 100%;
-  color: #6c4d5e;
-}
+    
+    overflow: shown; }
+
+  .navigation {
+    float: right; }
+
+  .logo, a.logo:hover {
+    font-size: 50%;
+    font-weight: 700;
+    padding-left: 350px;
+    color: #ff65f7;
+    display: block;
+    text-decoration: none; }
