@@ -7,6 +7,11 @@ layout: compress
 {% include meta_tags/base.html %}
 {% include externals/styling.html %}
 </head>
+{% for item in site.data.nav-links %}
+  {% if item.permalink == page.url %}
+    <body style="background: {{item.bg-color}}">
+  {% endif %}
+{% endfor %}
 <body>
 <div class="wrapper">
 {% include header.html %}

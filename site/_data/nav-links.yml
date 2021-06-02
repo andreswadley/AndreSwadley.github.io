@@ -1,0 +1,21 @@
+- projects:
+  permalink: /projects
+  bg-color: whitesmoke
+  links:
+  - text: dont
+    href: "#somewhere"
+  - text: click
+    href: "#somewhere"
+  - text: here
+    href: "#somewhere"
+
+- home:
+  permalink: /
+  bg-color: "#EADDD9"
+  links:
+  - text: hey
+    href: "#somewhere"
+  - text: welcome
+    href: "#somewhere"
+  - text: home
+    href: "#somewhere"

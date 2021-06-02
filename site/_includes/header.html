@@ -6,9 +6,13 @@
 <a href="{{ site.baseurl }}/" class="logo">{{ site.short_logo }}</a>
 {% endif %}
 <ul class="menu">
-<li class="menu__entry"><a href="{{ site.baseurl }}/">dont</a></li>
-<li class="menu__entry"><a href="{{ site.baseurl }}/projects">click</a></li>
-<li class="menu__entry"><a href="{{ site.baseurl }}/posts">here</a></li>
+  {% for item in site.data.nav-links %}
+    {% if item.permalink == page.url %}
+      {% for link in item.links %}
+        <li class="menu__entry"><a href="{{ link.href }}/">{{link.text}}</a></li>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
 </ul>
 </div>
 <ul class="social-links">
