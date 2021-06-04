@@ -1,10 +1,5 @@
 <header class="header">
 <div class="navigation">
-{% if page.full_logo %}
-<a href="{{ site.baseurl }}/" class="logo">{{ site.title }}</a>
-{% else %}
-<a href="{{ site.baseurl }}/" class="logo">{{ site.short_logo }}</a>
-{% endif %}
 <ul class="menu">
   {% for item in site.data.nav-links %}
     {% if item.permalink == page.url %}
@@ -22,7 +17,7 @@
 </a>
 {% endif %}
 {% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+<a href="https://psalms2beloved.bandcamp.com/ }}" class="social-links__entry" target="_blank">
 <i class="fab fa-github"></i>
 </a>
 {% endif %}

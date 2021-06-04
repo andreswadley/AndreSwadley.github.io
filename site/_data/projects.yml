@@ -12,7 +12,7 @@
   tags: [tag1, tag2] # A list of tags
 
 - name: Pudina Fresh Jekyll Theme
-  id: pf
+  id: 
   img_src: 
   description_less: >
     <p>A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>

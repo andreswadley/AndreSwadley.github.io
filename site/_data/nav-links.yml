@@ -1,21 +1,35 @@
 - projects:
   permalink: /projects
-  bg-color: whitesmoke
+  bg-color:  "#EADDD9"
+  text-align: "center"
   links:
-  - text: dont
-    href: "#somewhere"
-  - text: click
-    href: "#somewhere"
-  - text: here
-    href: "#somewhere"
+  - text: what
+    href: ""
+  - text: the
+    href: "/projects"
+  - text: heck?
+    href: "/posts"
 
 - home:
   permalink: /
   bg-color: "#EADDD9"
+  text-align: "left"
   links:
-  - text: hey
-    href: "#somewhere"
-  - text: welcome
-    href: "#somewhere"
-  - text: home
-    href: "#somewhere"
+  - text: dont
+    href: ""
+  - text: click
+    href: "/projects"
+  - text: here
+    href: "/posts"
+
+- posts:
+  permalink: /posts
+  bg-color: "#EADDD9"
+  links:
+  - text: error
+    href: "/posts"
+  - text: error
+    href: "/posts"
+  - text: error
+    href: "/posts"
+

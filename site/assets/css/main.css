@@ -115,7 +115,7 @@
   .page-title__subtitle {
     font-weight: 400;
     font-size: 60%;
-    color: #828282; }
+    color: #0583b4; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -225,7 +225,7 @@
       width: 100%; }
 
     .social-links {
-      font-size: 200%;
+      font-size: 20%;
       margin: 10px auto; }
 
     .page-title {
