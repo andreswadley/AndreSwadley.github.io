@@ -1,14 +1,16 @@
+
+
 body {
   
   font-family: 'Volkorn', serif;
   font-size: 50%;
-  color: rgb(144, 79, 228);
+  color: #47197B;
   padding-bottom: 20px;
  
   /* background-color: #EADDD9; */
 }
 a {
-    color: rgb(35, 138, 14);
+    color: #124F03;
     text-decoration: none;
     padding-bottom: 20px; }
 
@@ -56,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #828282;
     text-align: center;
     line-height: 24px;
-    padding: 300px;
+    padding: 50px;
     font-size: 150%; }
 
   .about__devider {
@@ -74,3 +76,16 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     font-size: 60%;
     color: #5f2f2f; }
+    
+@media screen and (min-width: 1920px) {
+   padding: 1rem 3rem;
+  
+   }  
+
+
+@media screen and (min-width: 320px) {
+  img { max-width: 100%; height: auto; }
+  html { font-size:100%; }
+
+  
+  }
