@@ -1,20 +1,41 @@
 body {
   
   font-family: 'Volkorn', serif;
-  font-size: 100%;
+  font-size: 50%;
   color: rgb(144, 79, 228);
+  padding-bottom: 20px;
  
   /* background-color: #EADDD9; */
 }
 a {
     color: rgb(35, 138, 14);
-    text-decoration: none; }
-  
+    text-decoration: none;
+    padding-bottom: 20px; }
+
+ul, ol, {
+    font-size: 50%;
+    line-height: 5px; 
+    padding-bottom: 50px;
+    padding-left: 200px;
+    }
+  p {
+    font-size: 100%;
+    line-height: 5px; 
+    padding-bottom: 50px;
+   
+  }
+  dl {
+  font-size: 50%;
+    line-height: 5px; 
+    padding-bottom: 50px;
+    padding-left: 200px;
+
+   }
 
 .header {
   font-family: 'Volkorn', serif;
  
-  font-size: 100%;
+  font-size: 150%;
   color: #6c4d5e;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -35,7 +56,8 @@ h1, h2, h3, h4, h5, h6 {
     color: #828282;
     text-align: center;
     line-height: 24px;
-    padding: 300px; }
+    padding: 300px;
+    font-size: 150%; }
 
   .about__devider {
     font-size: 100%;
